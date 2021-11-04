@@ -15,3 +15,11 @@ OR:
 
 ## 验证源码
 > 参考 how-to-verify-source-code-consistency.md文档
+
+## 合约地址
+|  合约名称  |               Rinkeby测试网                | Ethereum主网 |
+| :--------: | :----------------------------------------: | :----------: |
+| Seed Token | 0xC9B7c1E3CB7a852BD5C053584073F1C0695C1421 |    未部署    |
+|  Treasury  | 0x10F26B6EcBF96774Ef8d584B3d852a80a603D36e |    未部署    |
+|  Mask NFT  | 0x988721B1350D549c2478664FAB3eCD5522A19908 |    未部署    |
+|  KeySpace  | 0xd700a119D906e8e48f868F01865741Aca2718A17 |    未部署    |
